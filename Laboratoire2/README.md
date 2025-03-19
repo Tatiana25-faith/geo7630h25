@@ -1,6 +1,6 @@
 # geo7630-lab2
 ## Laboratoire 2 
-Ce deuxième laboratoire vise à approfondir vos compétences dans FME et QGIS. Vous apprendrez à manipuler des données géospatiales plus complexes en combinant des données vectorielles et matricielles, et à réaliser une jointure spatiale pour répondre à une problématique simple.
+Ce deuxième laboratoire vise à approfondir les compétences dans FME et QGIS. Le but est de manipuler des données géospatiales plus complexes en combinant des données vectorielles et matricielles, et à réaliser une jointure spatiale pour répondre à une problématique simple.
 Problématique : Identifier la répartition des arbres par quartier dans la ville de Montréal.
 Pour la réalisation de ce laboratoire nous avons :
 
