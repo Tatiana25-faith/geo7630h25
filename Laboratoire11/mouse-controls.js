@@ -26,7 +26,7 @@ map.on('mouseenter', 'commerces', () => {
       ]);
     }
   
-    // 🔁 Mise à jour du compteur après filtrage
+    // Mise à jour du compteur après filtrage
     mettreAJourCompteur();
   });
   
@@ -50,7 +50,7 @@ map.on('mouseenter', 'commerces', () => {
       speed: 0.8
     });
   
-    // 🧾 Mise à jour du panneau latéral
+    // Mise à jour du panneau latéral
     document.getElementById('sidebar').innerHTML = `
       <h3>${props.nom}</h3>
       <p><strong>Type :</strong> ${props.type}</p>
