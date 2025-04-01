@@ -6,10 +6,12 @@ var map = new maplibregl.Map({
     zoom: 9, // niveau de zoom initial
     hash: true // activation du hash pour la gestion de l'historique de la carte
 });
+
+// Ajout de la méthode map.onLoad() dans app.js :
 map.on('load', function () {
     map.addSource('qt_arbres_quartier_source', {
         type: 'vector',
-        tiles: ['https://obscure-carnival-jj7qx674px473v7r-8801.app.github.dev/public.densite_arbres_quartiers/{z}/{x}/{y}.pbf']
+        tiles: ['https://cautious-garbanzo-v6rqx4rgj4xjhp6xx-8801.app.github.dev/public.densite_arbres_quartiers/{z}/{x}/{y}.pbf']
     });
     map.addLayer({
         'id': 'qt_arbres_quartier',
@@ -33,7 +35,9 @@ map.on('load', function () {
     });
 });
 
-/**
+
+/** Ajoute d'une fonction loadWFS() dans app.js :
+ * 
  * Fonction qui génère une couleur aléatoire en format hexadécimal.
  * @returns {string} Couleur générée au format hexadécimal.
  */
@@ -60,7 +64,7 @@ function loadWFS() {
     // Ajout de la source de données des arrondissements depuis pgFeatureServ
     map.addSource('arrondissements-source', {
         type: 'geojson', // Type de source de données
-        data: 'https://obscure-carnival-jj7qx674px473v7r-9000.app.github.dev/collections/GONT13318905.arrondissements/items?limit=5000' // URL pgFeatureServ GeoJSON ! Attention il faut bien inclure la méthode qui fait la requete sans limite d'items de données
+        data: 'https://cautious-garbanzo-v6rqx4rgj4xjhp6xx-9000.app.github.dev/collections/GONT13318905.arrondissements/items?limit=5000' // URL pgFeatureServ GeoJSON ! Attention il faut bien inclure la méthode qui fait la requete sans limite d'items de données
     });
 
     // Ajout de la couche des arrondissements à la carte MapLibre
