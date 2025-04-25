@@ -24,6 +24,8 @@
 
 # 5. Calcul de la médiane de densité
 
+![image](https://github.com/user-attachments/assets/95f83284-de1e-4d57-b62a-4055e90e7661)
+
 ![image](https://github.com/user-attachments/assets/e705c066-4ecc-4c10-bde6-951ce4086949)
 
 
