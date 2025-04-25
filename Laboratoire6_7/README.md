@@ -34,7 +34,8 @@
 
 # Synthèse des étapes
 
-![image](https://github.com/user-attachments/assets/50ba8bdc-900a-42e8-8c90-7f03bef766c5)
+![image](https://github.com/user-attachments/assets/028c5d7d-206d-43a1-893f-f22cdb420c36)
+
 
 
 
