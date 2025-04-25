@@ -101,9 +101,11 @@ Empreintes Toits et détails
 
 ![image](https://github.com/user-attachments/assets/e8e857d4-40a6-46be-a074-2cab3639b764)
 
-- Ensuite on transforme le FME color en RGB ou WebRGB  avec un ColorConverter (FME Hub)
+- Ensuite on transforme le FME color en RGB ou WebRGB  avec un ColorConverter (FME Hub) et on injecte dans la BD
 
 ![image](https://github.com/user-attachments/assets/5788c9eb-08d7-4fd8-b958-ebef6f30ba28)
+
+![image](https://github.com/user-attachments/assets/8c190d42-beab-4494-94ce-8975030a47ac)
 
 
 # Étape 6 Visualisation du résultat dans MaplibreGL
