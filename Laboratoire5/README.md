@@ -89,7 +89,27 @@ Empreintes Toits et détails
 
 # Étape 8 Jointure des propriétés du nuage de points dans les polygones
 
-![image](https://github.com/user-attachments/assets/eaf9cb5a-55c7-47a1-86f9-e1124b592dc2)
+![image](https://github.com/user-attachments/assets/8c89df4f-1896-4158-8a8e-726d0049ffd9)
+
+![image](https://github.com/user-attachments/assets/afb0ecb5-4c15-4f2d-b18c-3d3ab0ef6976)
+
+- On ajoute un ListSummer
+
+![image](https://github.com/user-attachments/assets/9c4b76ad-6234-49b6-a297-f68ca60adc72)
+
+- Ensuite on va créer un attribut pour calculer la moyenne AttributeCreator
+
+![image](https://github.com/user-attachments/assets/e8e857d4-40a6-46be-a074-2cab3639b764)
+
+- Ensuite on transforme le FME color en RGB ou WebRGB  avec un ColorConverter (FME Hub)
+
+![image](https://github.com/user-attachments/assets/5788c9eb-08d7-4fd8-b958-ebef6f30ba28)
+
+
+
+
+
+
 
 
 
