@@ -56,12 +56,9 @@
 
 ![image](https://github.com/user-attachments/assets/6bb75806-ad2f-48e8-bab3-cc15c0566d74)
 
-# Dashbord 
+# Résultat Dashbord 
 
-![image](https://github.com/user-attachments/assets/e550c2ef-1591-4532-ae59-5ab8bab64170)
-
-![image](https://github.com/user-attachments/assets/9260100e-bab3-454c-b3ba-22ff837acc4d)
-
+![image](https://github.com/user-attachments/assets/cbce937f-980c-49ef-baed-48d1aa260883)
 
 
 
