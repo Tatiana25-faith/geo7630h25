@@ -110,6 +110,7 @@ Empreintes Toits et détails
 
 # Étape 6 Visualisation du résultat dans MaplibreGL
 
+![image](https://github.com/user-attachments/assets/9ea72f7c-a99f-4bc3-a82e-8af3ca2f2600)
 
 
 
