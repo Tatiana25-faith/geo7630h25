@@ -62,6 +62,39 @@
 ![image](https://github.com/user-attachments/assets/6c33adc6-dff0-49b1-994f-4952905e1128)
 
 
+## Etape 4 : Ajout des empruntes et details de bâtiments
+
+![image](https://github.com/user-attachments/assets/46363596-34cd-4299-8a79-543bdbd86af8)
+
+- Calcul du bounding box du nuage de points avec un BoundingBoxAccumulator
+
+![image](https://github.com/user-attachments/assets/96993aa0-a067-4e01-8354-2eeb080acb57)
+
+- Découper avec un Clipper les polygones et les lignes, puis découper les empreintes de toits avec les détails avec un PolygonCutter issue du FMEHub
+
+![image](https://github.com/user-attachments/assets/8961fa46-8874-46c2-87c9-d8e135a21eeb)
+
+CARTO-BAT-DETAIL clippé
+
+![image](https://github.com/user-attachments/assets/c06fe699-0e65-42b8-ab49-d0fe0c839d8d)
+
+CARTO-BAT-toit clippé
+
+![image](https://github.com/user-attachments/assets/7b5d3465-d2dc-4309-ba06-f513d89f75f0)
+
+Empreintes Toits et détails
+
+![image](https://github.com/user-attachments/assets/a89e5c93-79be-4ea2-a462-96502c970f81)
+
+
+# Étape 8 Jointure des propriétés du nuage de points dans les polygones
+
+![image](https://github.com/user-attachments/assets/eaf9cb5a-55c7-47a1-86f9-e1124b592dc2)
+
+
+
+
+
 
 
 
