@@ -1,5 +1,7 @@
 ## Laboratoire 3
 
+# Partie 1
+
 # 1. Chargemengt des données
 
 # Données "Arbres"
@@ -30,4 +32,34 @@
 
 
 # 5. Calcul de la médiane de densité
+
+![image](https://github.com/user-attachments/assets/a571dcea-65a5-4196-b118-fe65dad4c719)
+
+
+# 6. Calcul de l’index par rapport à la médiane pour connaitre les parcs qui ont une densité supérieure ou inférieure a la mediane 
+
+![image](https://github.com/user-attachments/assets/4f6ff546-3c36-46f3-bdac-f076c8c03c0d)
+
+
+# 7. Nettoyage des données
+
+![image](https://github.com/user-attachments/assets/2635e0ea-3854-4a8a-8c66-c99219ed29d2)
+
+# 8. Exportation des données
+
+# Synthèse de la partie
+
+![image](https://github.com/user-attachments/assets/2103e0d9-ab9a-4319-99eb-fd58e639206d)
+
+
+# 9. Visualisation des résultats dans QGIS
+
+
+# Partie 2
+
+# 1.  Analyse de la densité arboricole avec une grille H
+
+![image](https://github.com/user-attachments/assets/ce04c256-760a-4a45-bf46-bb6d1c14f0b8)
+
+# 2. Dissolution des indexes H3
 
