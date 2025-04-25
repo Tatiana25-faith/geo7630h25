@@ -63,3 +63,25 @@
 
 # 2. Dissolution des indexes H3
 
+![image](https://github.com/user-attachments/assets/fd74525a-6b36-4098-a1ff-2880b0b56ccf)
+
+# 3. Reprejection des couches des parcs et des arbres
+
+![image](https://github.com/user-attachments/assets/8c849587-66bc-4ca2-b890-a6b3e7b79c70)
+
+# 4.  Étape 4 : Calcul des arbres par hexagone
+
+![image](https://github.com/user-attachments/assets/cbc5aad8-96fe-4a41-8de3-bac3bb2738c2)
+
+# 5. Sélection des attributs désirés
+
+![image](https://github.com/user-attachments/assets/daf98e38-5197-4e4b-b5fb-3ff0b6200d34)
+
+# 6. exportation dans la base
+
+# erreur
+
+![image](https://github.com/user-attachments/assets/caeb1c7c-63bd-4311-8b0d-1a7e1c63bc75)
+
+
+
