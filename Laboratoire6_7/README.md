@@ -32,7 +32,7 @@
 
 ![image](https://github.com/user-attachments/assets/700c5069-ee18-430a-a827-15cf16855fec)
 
-# Synthèse des étape
+# Synthèse des étapes
 
 ![image](https://github.com/user-attachments/assets/50ba8bdc-900a-42e8-8c90-7f03bef766c5)
 
