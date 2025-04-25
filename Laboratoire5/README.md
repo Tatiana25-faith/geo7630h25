@@ -87,7 +87,7 @@ Empreintes Toits et détails
 ![image](https://github.com/user-attachments/assets/a89e5c93-79be-4ea2-a462-96502c970f81)
 
 
-# Étape 8 Jointure des propriétés du nuage de points dans les polygones
+# Étape 5 Jointure des propriétés du nuage de points dans les polygones
 
 ![image](https://github.com/user-attachments/assets/8c89df4f-1896-4158-8a8e-726d0049ffd9)
 
@@ -106,7 +106,7 @@ Empreintes Toits et détails
 ![image](https://github.com/user-attachments/assets/5788c9eb-08d7-4fd8-b958-ebef6f30ba28)
 
 
-
+# Étape 6 Visualisation du résultat dans MaplibreGL
 
 
 
