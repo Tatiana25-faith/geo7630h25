@@ -22,10 +22,12 @@
 
 ![image](https://github.com/user-attachments/assets/32255c55-23bc-4942-9fdf-e9019c75ce63)
 
-# 5. Calcul de la médiane de densité
+# 5. Calcul de la densité
 
 ![image](https://github.com/user-attachments/assets/95f83284-de1e-4d57-b62a-4055e90e7661)
 
 ![image](https://github.com/user-attachments/assets/e705c066-4ecc-4c10-bde6-951ce4086949)
 
+
+# 5. Calcul de la médiane de densité
 
