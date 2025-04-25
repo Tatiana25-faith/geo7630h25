@@ -33,6 +33,38 @@
 
 ![image](https://github.com/user-attachments/assets/bee72d8e-7198-49a1-9eff-f352200e6063)
 
-## Etape 3 : Simplification du nuage de points
+## Etape 3 : Ajout de rasters géoréférencés
+
+# Reprojection, combinaison des images et choix des bandes 
+
+![image](https://github.com/user-attachments/assets/a783d01e-e26c-4c87-8556-79b156902172)
+
+# Jointure raster et nuage de points 
+
+- Ajout de la couleur dans votre nuage de point en ajoutant les valeur du raster avec un PointCloudOnRasterComponentSetter
+
+![image](https://github.com/user-attachments/assets/313ec13c-6eac-4627-bc5e-1c44efa6656f)
+
+- combiner le résultat en 1 seul nuage avec un PointCloudCombiner
+
+![image](https://github.com/user-attachments/assets/854a5a6f-23ed-4d25-9345-87e0133edbb9)
+
+- Filtrage des valeurs du nuage de points dont le raster n’a pas donné de valeur avec un pointCloudFilter
+
+![image](https://github.com/user-attachments/assets/6956277e-d0f9-4a0c-81a5-9c1a2ef740be)
+
+- Transformer le nuage de points en couche de vecteurs ponctuels simple avec un PointCloudCoercer, en s’assurant de garder les composantes nécessaires pour la suite
+
+![image](https://github.com/user-attachments/assets/f23ba3fd-e3b1-4ca8-b710-6eea37ff93c4)
+
+![image](https://github.com/user-attachments/assets/0b0ba4a1-f6ba-48f2-91f5-fbad2115e7c8)
+
+![image](https://github.com/user-attachments/assets/6c33adc6-dff0-49b1-994f-4952905e1128)
+
+
+
+
+
+
 
 
