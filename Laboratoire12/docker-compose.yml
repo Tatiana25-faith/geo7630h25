@@ -3,7 +3,7 @@ services:
   pg_tileserv:
     image: "pramsey/pg_tileserv:latest"
     ports:
-    - 8801:7800
+    - 8803:7800
     environment:
     - DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@${DB_HOST}/${DB_NAME}
     # volumes:
@@ -12,7 +12,7 @@ services:
   pg_featureserv:
     image: "pramsey/pg_featureserv:latest"
     ports:
-    - 9000:9000
+    - 9002:9000
     environment:
     # CHANGE connection string from .env file
     - DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@${DB_HOST}/${DB_NAME}
@@ -20,8 +20,23 @@ services:
   server-web:
     image: nginx
     ports:
-      - 8000:80
+      - 8002:80
     volumes:
-      - ./app:/usr/share/nginx/html
+      - ./app:/usr/share/nginx/html 
+      
+    restart: always
+  geoserver:
+    image: kartoza/geoserver:2.22.2
+    ports:
+      - 8082:8080
+    environment:
+      - GEOSERVER_ADMIN_USER=admin
+      - GEOSERVER_ADMIN_PASSWORD=geoserver
+      - GEOSERVER_DATA_DIR=/opt/geoserver/data_dir
+      - GEOSERVER_CONTEXT_PATH=/geoserver
+      - PROXY_BASE_URL=https://special-train-gv4r9g5gj4cvp7-8080.app.github.dev/geoserver
+    volumes:
+      - ./geoserver_data:/opt/geoserver/data_dir
     restart: always
   
+
