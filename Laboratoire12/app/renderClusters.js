@@ -8,7 +8,7 @@ function generateClusters() {
         data: randomPoints,       // Données à afficher (objet GeoJSON)
         cluster: true,            // Active le clustering
         clusterMaxZoom: 14,       // Zoom maximal pour faire le regroupement
-        clusterRadius: 50         // Rayon autour des points pour créer un cluster
+        clusterRadius: 50       // Rayon autour des points pour créer un cluster
     });
 
     // 3. Layer pour afficher les cercles représentant les clusters
