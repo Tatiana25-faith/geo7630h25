@@ -83,6 +83,10 @@
 
 ![capture_hexagone](https://github.com/user-attachments/assets/cad9e0d7-0179-49b9-949f-962bc82a0c83)
 
+# Affichage dans QGIS
+
+
+
 
 
 
