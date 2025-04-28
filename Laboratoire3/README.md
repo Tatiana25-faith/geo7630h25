@@ -81,9 +81,8 @@
 
 # 6. exportation dans la base
 
-# erreur
+![capture_hexagone](https://github.com/user-attachments/assets/cad9e0d7-0179-49b9-949f-962bc82a0c83)
 
-![image](https://github.com/user-attachments/assets/caeb1c7c-63bd-4311-8b0d-1a7e1c63bc75)
 
 
 
