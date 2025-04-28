@@ -53,7 +53,8 @@
 
 # 9. Visualisation des résultats dans QGIS
 
-![image](https://github.com/user-attachments/assets/23ac0d6e-9164-4722-a9cb-04b7ac5b8a2a)
+![image](https://github.com/user-attachments/assets/a8f6f3ca-b1da-458c-a138-c845ed201378)
+
 
 
 # Partie 2
