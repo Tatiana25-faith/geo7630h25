@@ -40,7 +40,6 @@
 
 ![image](https://github.com/user-attachments/assets/4f6ff546-3c36-46f3-bdac-f076c8c03c0d)
 
-
 # 7. Nettoyage des données
 
 ![image](https://github.com/user-attachments/assets/2635e0ea-3854-4a8a-8c66-c99219ed29d2)
@@ -53,6 +52,8 @@
 
 
 # 9. Visualisation des résultats dans QGIS
+
+![image](https://github.com/user-attachments/assets/23ac0d6e-9164-4722-a9cb-04b7ac5b8a2a)
 
 
 # Partie 2
