@@ -84,6 +84,7 @@
 
 # Affichage dans QGIS
 
+![image](https://github.com/user-attachments/assets/1561e4e8-6d73-40d1-8cda-6ed23f6d20c6)
 
 
 
