@@ -104,3 +104,5 @@ map.addLayer({
 })
 
 # Résultat (captures) dans git-checkout--b-votre_nom-labo9
+
+
